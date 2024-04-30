@@ -1,0 +1,155 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.co{
+    height: 60px;
+    width: 120px;
+    border: 1px solid black;
+    margin-left: 650px;
+    margin-top: 50px;
+}
+.conf{
+    font-size: 21px;
+    margin-left: 350px;
+    margin-top: 70px;
+}
+.name{
+    margin-left: 350px;
+    margin-top: 70px;
+}
+.tq{
+    margin-left: 350px;
+    font-weight:lighter;
+    margin-top: 25px;
+}
+hr{
+    width: 825px;
+    margin-top: 55px;
+}
+.tot{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 55px;
+    color: rgb(119, 116, 116);
+}
+.heads{
+    margin-right: 160px;
+}
+.total{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+}
+.heads2{
+    margin-left: 150px;
+}
+.heads3{
+    margin-left: 130px;
+}
+.heads4{
+    margin-left: 165px;
+}
+.division{
+    border: 1px solid black;
+    height: 70px;
+    width: 70px;
+    margin-top: 50px;
+    margin-left: 350px;
+
+}
+.bs{
+    margin-left: 450px;
+   padding: 30px;
+   margin-top: -95px;
+}
+.ds{
+    margin-left: 450px;
+   padding: 30px;
+   margin-top: -45px;
+   color: rgb(105, 105, 106);
+}
+.es{
+    margin-left: 1100px;
+   padding: 30px;
+   margin-top: -105px;
+   color: rgb(0, 0, 0);
+}
+.classes{
+    margin-left: 320px;
+    padding: 30px;
+    margin-top: 50px;
+}
+.classes1{
+    margin-left: 320px;
+    padding: 30px;
+    margin-top: -20px;
+}
+.classes2{
+    margin-left: 320px;
+    padding: 30px;
+    margin-top: -20px;
+}
+.classes3{
+    margin-left: 320px;
+    padding: 30px;
+    margin-top: -20px;
+}
+.classes4{
+    margin-left: 1105px;
+    padding: 30px;
+    margin-top: -260px;
+}
+.classes5{
+    margin-left: 1105px;
+    padding: 30px;
+    margin-top: -15px;
+}
+.classes6{
+    margin-left: 1105px;
+    padding: 30px;
+    margin-top: -20px;
+}
+.classes7{
+    margin-left: 1105px;
+    padding: 30px;
+    margin-top: -20px;
+}
+.classes8{
+    margin-left: 320px;
+    padding: 30px;
+    margin-top: 30px;
+}
+.classes9{
+    margin-left: 1105px;
+    padding: 30px;
+    margin-top: -80px;
+}
+.classes10{
+    margin-left: 320px;
+    padding: 30px;
+    margin-top: 30px;
+}
+.classes11{
+    margin-left: 320px;
+    padding: 30px;
+    margin-top: -30px;
+}
+.box{
+    height: 100px;
+    background-color: rgb(228, 228, 228);
+    width: 825px;
+    margin-left: 340px;
+    margin-top: 20px;
+}
+.questions{
+    margin-left: 380px;
+    margin-top: -45px;
+}
+span{
+    color: rgb(0, 0, 171);
+    text-decoration: underline;
+}
+
+
